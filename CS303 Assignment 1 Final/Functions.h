@@ -2,8 +2,6 @@
 #include <iostream>
 using namespace std;
 
-void OpenFile();
-
 void menu();
 
 int search(int arr[], int user_size, int x);

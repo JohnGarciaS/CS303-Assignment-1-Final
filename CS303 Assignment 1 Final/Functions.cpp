@@ -2,11 +2,6 @@
 
 using namespace std;
 
-void OpenFile()
-{
-
-}
-
 
 void menu()
 {
